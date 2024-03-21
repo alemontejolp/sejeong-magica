@@ -1,4 +1,4 @@
-# yes_no_app
+# sejeong_magica
 
 A new Flutter project.
 

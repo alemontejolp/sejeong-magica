@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:yes_no_app/config/themes/default_theme.dart';
-import 'package:yes_no_app/presentation/providers/chat_provider.dart';
-import 'package:yes_no_app/presentation/screens/chat/chat_screen.dart';
+import 'package:sejeong_magica/config/themes/default_theme.dart';
+import 'package:sejeong_magica/presentation/providers/chat_provider.dart';
+import 'package:sejeong_magica/presentation/screens/chat/chat_screen.dart';
 
 void main() {
   runApp(const MyApp());
