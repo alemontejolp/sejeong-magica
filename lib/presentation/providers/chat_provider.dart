@@ -7,6 +7,7 @@ class ChatProvider extends ChangeNotifier {
   final getYesNoAnswer = GetYesNoAnswer();
   List<Message> messages = [
     Message(text: "Hola, amor!", fromWho: FromWho.HER),
+    Message(text: "Te extrañé mucho!", fromWho: FromWho.HER),
     Message(text: "Preguntame y te respondo con 'sí' o 'no'. :)", fromWho: FromWho.HER),
   ];
 

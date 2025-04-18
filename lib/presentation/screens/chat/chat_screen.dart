@@ -19,7 +19,7 @@ class ChatScreen extends StatelessWidget {
             backgroundImage: NetworkImage("https://imgmedia.larepublica.pe/640x371/larepublica/original/2022/03/22/6239d01abe813b5a8a55052a.webp"),
           ),
         ),
-        title: const Text("Mi amor Se Jeong 💕"),
+        title: const Text("Mi amor Kim Se Jeong 💕"),
       ),
       body: _ChatView(),
     );
