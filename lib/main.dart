@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'SeJeong Magica',
-        theme: DefaultTheme(colorCode: 2).theme(),
+        theme: DefaultTheme(colorCode: 1).theme(),
         home: const ChatScreen(),
       ),
     );
